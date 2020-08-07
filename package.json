@@ -1,0 +1,11 @@
+{
+  "name": "the_book_of_rust_2018_zh_CH",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tianxiemaochiyu/the_book_of_rust_2018_zh_CH.git",
+  "author": "scorpiocat <tianxiemaochiyu@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
