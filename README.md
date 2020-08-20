@@ -6,4 +6,4 @@ Rust 程序设计语言（第二版 & 2018 edition） 简体中文
 
 **原项目传送门**: [https://github.com/KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn "原项目") 
 
-**预览地址**: [http://rust.scorpiocat.com](http://scorpiocat.com "Rust之书-2018简体中文版")
+**预览地址**: [http://rust.scorpiocat.com](http://rust.scorpiocat.com "Rust之书-2018简体中文版")
